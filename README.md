@@ -1,2 +1,2 @@
 # Real-Time-Process-Monitoring-dashboard-
-In Process
+can controll the all  devices process in one device by qr scan or acesses token\
